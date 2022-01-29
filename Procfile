@@ -1,1 +1,1 @@
-worker : npm i && node main.js
+worker : npm i brainly-scraper && node main.js
